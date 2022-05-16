@@ -12,7 +12,7 @@ pageextension 50149 "CGI GL Entries" extends "General Ledger Entries"
             field("Letter Date"; Rec."Letter Date")
             {
                 ApplicationArea = All;
-                ToolTip = 'Letter';
+                ToolTip = 'Letter Date';
             }
 
         }
